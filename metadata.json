@@ -1,0 +1,5 @@
+{
+  "name": "NextGen SEPA Banking",
+  "description": "A modern SEPA transfer application supporting Standard, Scheduled, and Instant transfers with AI-powered BIC resolution and automatic format correction.",
+  "requestFramePermissions": []
+}
